@@ -7,3 +7,5 @@ git clone https://github.com/udacity/reactnd-contacts-complete/commit/6f38f07863
 npm install --save prop-types
 
 npm install --save react-router-dom
+
+https://github.com/udacity/reactnd-project-myreads-starter
